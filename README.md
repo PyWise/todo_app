@@ -8,16 +8,12 @@ A **simple**, **beautiful**, and **lightweight** Flutter app to track your daily
   <img src="assets/images/screenshot_1.png" width="45%" />
 </p>
 
----
-
 ## 🛠 Features
 
 - ➕ **Add** new tasks
 - 🗑 **Delete** tasks
 - ✅ **Mark as complete**
 - 💾 **Offline storage** using Hive
-
----
 
 ## 📂 Project Structure
 
@@ -33,8 +29,6 @@ lib/
 ├── data/
 │   └── database.dart      # Local Hive database handler
 ```
-
----
 
 ## 🚀 Getting Started
 
