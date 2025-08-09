@@ -49,5 +49,3 @@ lib/
    ```bash
    flutter run
    ```
-
----
